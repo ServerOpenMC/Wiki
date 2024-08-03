@@ -29,5 +29,5 @@
 ## Décorations
 
 * [✏️ Tables](decorations/tables.md)
-* [🪨 Décorations au sol](decorations/decoration-au-sol)
+* [🪨 Décorations au sol](decorations/decoration-au-sol.md)
 * [🌍 Autres](decorations/autres.md)

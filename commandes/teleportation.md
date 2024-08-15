@@ -1,8 +1,12 @@
 # 🚰 Téléportation
 
+{% hint style="info" %}
+Si l'argument est encadré avec "\[]" il est facultatif. Avec "<>" il est obligatoire.
+{% endhint %}
+
 ## TPA
 
-<table><thead><tr><th width="233">Commande</th><th>Description</th></tr></thead><tbody><tr><td>/tpa</td><td>Envoyer une demande de téléportation à un joueur.</td></tr><tr><td>/tpagui</td><td>Ouvrir une interface GUI listant les joueurs en ligne pour envoyer une demande de téléportation.</td></tr><tr><td>/tpaccept</td><td>Accepter la dernière demande de téléportation reçue.</td></tr><tr><td>/tpdeny</td><td>Refuser la dernière demande de téléportation reçue.</td></tr></tbody></table>
+<table><thead><tr><th width="233">Commande</th><th>Description</th></tr></thead><tbody><tr><td>/tpa &#x3C;joueur></td><td>Envoyer une demande de téléportation à un joueur.</td></tr><tr><td>/tpa</td><td>Ouvrir une interface GUI listant les joueurs en ligne pour envoyer une demande de téléportation.</td></tr><tr><td>/tpaccept</td><td>Accepter la dernière demande de téléportation reçue.</td></tr><tr><td>/tpdeny</td><td>Refuser la dernière demande de téléportation reçue.</td></tr></tbody></table>
 
 ### Explication des commandes
 
@@ -13,11 +17,11 @@
 * **Exemple** : `/tpa joueur123` enverra une demande de téléportation à `joueur123`.
 * **Note** : Le joueur doit accepter la demande pour que la téléportation ait lieu.
 
-#### **/tpagui**
+#### **/tpa**
 
-* **Description** : Si vous tapez simplement `/tpagui`, une interface graphique (GUI) s'ouvrira listant tous les joueurs en ligne.
-* **Usage** : Tapez `/tpagui` pour ouvrir la GUI et choisir un joueur à qui envoyer une demande de téléportation.
-* **Exemple** : Tapez `/tpagui`, sélectionnez `joueur123` dans la liste pour envoyer une demande de téléportation.
+* **Description** : Si vous tapez simplement `/tpa`, une interface graphique (GUI) s'ouvrira listant tous les joueurs en ligne.
+* **Usage** : Tapez `/tpa` pour ouvrir la GUI et choisir un joueur à qui envoyer une demande de téléportation.
+* **Exemple** : Tapez `/tpa`, sélectionnez `joueur123` dans la liste pour envoyer une demande de téléportation.
 
 #### **/tpaccept**
 

@@ -14,20 +14,22 @@
 * [🎭 Fun](commandes/fun.md)
 * [😾 Utilitaire](commandes/utilitaire.md)
 * [🤝 Gestion des teams](commandes/gestion-des-teams.md)
+* [💰 Économie](commandes/economie.md)
 * [🚰 Téléportation](commandes/teleportation.md)
+* [👥 Amis](commandes/amis.md)
 
 ## Features
 
-* [🛏️ Dormir](features/dormir.md)
-* [🔨 Marteau de Thor](features/marteau-de-thor.md)
+* [🛏️ Sommeil](features/sommeil.md)
 * [🔻 Hoppers](features/hoppers.md)
 * [🥙 Nourriture](features/nourriture.md)
 * [⬆️ Trade](features/trade.md)
-* [♾️ Les évents aléatoires](features/les-events-aleatoires.md)
+* [🌙 Les évents aléatoires](features/les-events-aleatoires.md)
 * [⛏️ Mine, Nether et End](features/mine-nether-et-end.md)
+* [🎁 Lootboxes](features/lootboxes.md)
 
-## Décorations
+## CRAFTS
 
-* [✏️ Tables](decorations/tables.md)
-* [🪨 Décorations au sol](decorations/decoration-au-sol.md)
-* [🌍 Autres](decorations/autres.md)
+* [🔨 Marteau de Thor](crafts/marteau-de-thor.md)
+* [🍃 RTP Wand](crafts/rtp-wand.md)
+* [🥙 Kebab](crafts/kebab.md)

@@ -25,3 +25,9 @@
 * [⬆️ Trade](features/trade.md)
 * [♾️ Les évents aléatoires](features/les-events-aleatoires.md)
 * [⛏️ Mine, Nether et End](features/mine-nether-et-end.md)
+
+## Décorations
+
+* [✏️ Tables](decorations/tables.md)
+* [🪨 Décorations au sol](decorations/decoration-au-sol.md)
+* [🌍 Autres](decorations/autres.md)

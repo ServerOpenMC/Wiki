@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Elevator](README.md)
+* [🚀 Elevator](README.md)

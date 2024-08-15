@@ -2,7 +2,7 @@
 description: Système d'ascenseur ⏏️
 ---
 
-# Elevator
+# 🚀 Elevator
 
 Ce système d'élévateur est facile à construire et à personnaliser, il permet de se **déplacer** entre différents niveaux d'une construction en un clin d'œil. Parfait pour les grandes bâtisses et les mines profondes !
 
@@ -14,7 +14,7 @@ Vous aurez besoin de 4 blocs de `deepslate` bricks et de 4 `ender pearl`
 
 <div align="center" data-full-width="true">
 
-<figure><img src="../.gitbook/assets/elevator_craft.png" alt="" width="563"><figcaption><p>Craft de l'elevator</p></figcaption></figure>
+<figure><img src=".gitbook/assets/elevator_craft.png" alt="" width="563"><figcaption><p>Craft de l'elevator</p></figcaption></figure>
 
 </div>
 

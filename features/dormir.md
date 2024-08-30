@@ -2,9 +2,9 @@
 
 ## Rêves
 
-Vous avez 10% de chance de faire un rêve, un rêve vous emmenera dans la dimension des rêves ou vous serais livrais à vous même.
+Vous avez 10% de chance de faire un rêve, un rêve vous emmènera dans la dimension des rêves où vous seraient livré à vous-même.
 
-Vous pourrez y minez de l'essence de rêve (texture d'ancient débris), avec un livre et une essence, vous pourrez fabriquez un codex somnii, guide de la dimension
+Vous pourrez y minez de l'essence de rêve (texture d'ancient débris), avec un livre et une essence, vous pourrez fabriquer un codex somnii, guide de la dimension
 
 
 ## Bloodmoon (nuit terrifiante)

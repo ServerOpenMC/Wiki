@@ -12,8 +12,19 @@ Les votes commenceront toujours le vendredi à 0h de chaque semaine. Vous aurez 
 Le soleil commence à tomber sur le Spawn...
 
 ### Phase 2 : L'Affrontement ! 
-Un jour après que les votes ont commencé, donc le samedi à 0h. Le Contest démarre sur une durée de 2 jours.
-Pour donner des points à votre équipe vous devez faire des trades contre des Coquillages de Contest. 
+Un jour après que les votes se sont terminé, donc le samedi à 0h. Le Contest démarre sur une durée de 2 jours.
+**Comment avoir des Coquillages de Contest?**
+Pour donner des points à votre équipe vous devez faire des trades contre des Coquillages de Contest.
+<figure><img src="../.gitbook/assets/trade_contest.png" alt="" width=400></figure>
+Ou bien gagner une animation dans le chat.
+
+**La Contribution**
+Il vous faut déposer les Coquillages de Contest pour ajouter des points dans votre Team ! 
+<figure><img src="../.gitbook/assets/contribution_contest.png" alt="" width=400></figure>
+
+**Les Boost D'Evenement**
+
+
 La nuit tombe sur le spawn...
 
 ### Phase 3 : Les Résultats !

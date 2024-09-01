@@ -20,8 +20,6 @@ Pour donner des points à votre équipe vous devez faire des trades contre des C
 <figure><img src="../.gitbook/assets/trade_contest.png" alt="" width=400></figure>
 Ou bien gagner une animation dans le chat.
 
-
-
 **La Contribution**
 
 Il vous faut déposer les Coquillages de Contest pour ajouter des points dans votre Team ! 
@@ -29,7 +27,8 @@ Il vous faut déposer les Coquillages de Contest pour ajouter des points dans vo
 
 
 **Les Boost D'Evenement**
-
+<figure><img src="../.gitbook/assets/boost_contest.png" alt="" width=400></figure>
+Les boost d'événement peuvent varier de +5% à +25% d'apparaitre, ils sont choisis aléatoirement
 La nuit tombe sur le spawn...
 
 ### Phase 3 : Les Résultats !

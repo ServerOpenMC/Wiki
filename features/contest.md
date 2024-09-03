@@ -32,6 +32,7 @@ Les boost d'événement peuvent varier de +5% à +25% d'apparaitre, ils sont cho
 La nuit tombe sur le spawn...
 
 ### Phase 3 : Les Résultats !
-Les résultats tombent, ils sont basés sur le taux de personne ayant rejoint le Team et le taux de Coquillages de Contest déposé.
-
+Les résultats tombent, ils sont basés sur le taux de Coquillages de Contest déposé.
+Vous recevrez dans votre boite mail, le Lundi à 0h, un livre et des récompenses en lien avec le Contest.
+Dans ce livre vous pourrez regarder les statistiques générales à propos du Contest, vos statistiques personnelles, et le classement !
 

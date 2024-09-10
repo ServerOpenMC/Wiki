@@ -18,7 +18,7 @@ Un jour après que les votes se sont terminé, donc le samedi à 0h. Le Contest 
 
 Pour donner des points à votre équipe vous devez faire des trades contre des Coquillages de Contest.
 <figure><img src="../.gitbook/assets/trade_contest.png" alt="" width=400></figure>
-Ou bien gagner une animation dans le chat.
+**Ou bien gagner une animation dans le chat**.
 
 
 **La Contribution**

@@ -35,5 +35,6 @@ La nuit tombe sur le spawn...
 ### Phase 3 : Les Résultats !
 Les résultats tombent, ils sont basés sur le taux de Coquillages de Contest déposé.
 Vous recevrez dans votre boite mail, le Lundi à 0h, un livre et des récompenses en lien avec le Contest.
+img boite
 Dans ce livre vous pourrez regarder les statistiques générales à propos du Contest, vos statistiques personnelles, et le classement !
-
+img book

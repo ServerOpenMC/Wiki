@@ -20,7 +20,6 @@ Pour donner des points à votre équipe vous devez faire des trades contre des C
 <figure><img src="../.gitbook/assets/trade_contest.png" alt="" width=400></figure>
 **Ou bien gagner une animation dans le chat**.
 
-
 ### 2- La Contribution
 
 Il vous faut déposer les Coquillages de Contest pour ajouter des points dans votre Team ! 
@@ -35,6 +34,5 @@ La nuit tombe sur le spawn...
 ## Phase 3 : Les Résultats !
 Les résultats tombent, ils sont basés sur le taux de Coquillages de Contest déposé.
 Vous recevrez dans votre boite mail, le Lundi à 0h, un livre et des récompenses en lien avec le Contest.
-img boite
 Dans ce livre vous pourrez regarder les statistiques générales à propos du Contest, vos statistiques personnelles, et le classement !
-img book
+<figure><img src="../.gitbook/assets/contest_book1.png" alt="" width=150></figure> <figure><img src="../.gitbook/assets/contest_book2.png" alt="" width=150></figure>

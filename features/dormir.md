@@ -1,12 +1,11 @@
 # 🛏️ Dormir
 
-## Insomnie
+## Rêves
 
-En dormant, vous avez 1 chance sur 10 (10%) de faire une insomnie, cette Insomnie vous donnera pendant 10 secondes:
+Vous avez 40% de chance de faire un rêve, un rêve vous emmènera dans la dimension des rêves où vous seraient livré à vous-même.
 
-* Slowness II
-* Weakness
-* Blindness
+Vous pourrez y minez de l'essence de rêve (texture d'ancient débris), avec un livre et une essence, vous pourrez fabriquer un codex somnii, guide de la dimension
+
 
 ## Bloodmoon (nuit terrifiante)
 

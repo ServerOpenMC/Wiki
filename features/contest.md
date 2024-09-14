@@ -36,3 +36,5 @@ Les résultats tombent, ils sont basés sur le taux de Coquillages de Contest d�
 Vous recevrez dans votre boite mail, le Lundi à 0h, un livre et des récompenses en lien avec le Contest.
 Dans ce livre vous pourrez regarder les statistiques générales à propos du Contest, vos statistiques personnelles, et le classement !
 <figure><img src="../.gitbook/assets/contest_book1.png" alt="" width=150></figure> <figure><img src="../.gitbook/assets/contest_book2.png" alt="" width=150></figure>
+
+Si vous avez un bug en rapport les Contest, contactez iambibi_

@@ -27,6 +27,7 @@
 * [🌙 Les évents aléatoires](features/les-events-aleatoires.md)
 * [⛏️ Mine, Nether et End](features/mine-nether-et-end.md)
 * [🎁 Lootboxes](features/lootboxes.md)
+* [🎏 Les Contest](features/contest.md)
 
 ## CRAFTS
 

@@ -17,20 +17,23 @@
 * [💰 Économie](commandes/economie.md)
 * [🚰 Téléportation](commandes/teleportation.md)
 * [👥 Amis](commandes/amis.md)
+* [Maisons](commandes/maisons.md)
 
 ## Features
 
-* [🛏️ Sommeil](features/sommeil.md)
-* [🔻 Hoppers](features/hoppers.md)
+* [🛏️ Sommeil](features/sommeil/README.md)
+  * [💤 Dimension des rêves](features/sommeil/dimension-des-reves.md)
+* [Hoppers](features/hoppers.md)
 * [🥙 Nourriture](features/nourriture.md)
-* [⬆️ Trade](features/trade.md)
-* [🌙 Les évents aléatoires](features/les-events-aleatoires.md)
-* [⛏️ Mine, Nether et End](features/mine-nether-et-end.md)
-* [🎁 Lootboxes](features/lootboxes.md)
+* [Trade](features/trade.md)
+* [Les évents aléatoires](features/les-events-aleatoires.md)
+* [Mine, Nether et End](features/mine-nether-et-end.md)
+* [Lootboxes](features/lootboxes.md)
 * [🎏 Les Contest](features/contest.md)
 
 ## CRAFTS
 
-* [🔨 Marteau de Thor](crafts/marteau-de-thor.md)
+* [Marteau de Thor](features/marteau-de-thor.md)
 * [🍃 RTP Wand](crafts/rtp-wand.md)
 * [🥙 Kebab](crafts/kebab.md)
+* [Sac de maison](crafts/sac-de-maison.md)

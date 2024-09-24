@@ -2,9 +2,10 @@
 description: >-
   Ce sont des événements qui se déclenchent de temps en temps pour pimenter
   l'expérience de jeu !
+icon: moon
 ---
 
-# 🌙 Les évents aléatoires
+# Les évents aléatoires
 
 ## La nuit terrifiante (Bloodmoon)
 

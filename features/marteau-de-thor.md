@@ -1,14 +1,15 @@
 ---
 description: L'arme mythique du dieu de la foudre.
+icon: hammer-war
 ---
 
-# 🔨 Marteau de Thor
+# Marteau de Thor
 
 ## Craft
 
 <div data-full-width="false">
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Craft du marteau (blocs de fer, bloc d'or et stick)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image_2024-08-10_023008212.png" alt="" width="251"><figcaption><p>Craft du marteau (blocs de fer, bloc d'or et stick)</p></figcaption></figure>
 
 </div>
 

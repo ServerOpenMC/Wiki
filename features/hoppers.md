@@ -1,8 +1,9 @@
 ---
 description: Plugin EpicHoppers par Sondoga
+icon: inbox-in
 ---
 
-# 🔻 Hoppers
+# Hoppers
 
 Sur le serveur, les hoppers peuvent être améliorés. Voici quelques features apportées par EpicHoppers :
 

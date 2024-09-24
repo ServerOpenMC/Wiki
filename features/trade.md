@@ -1,8 +1,9 @@
 ---
 description: Pratique pour le troc
+icon: right-left
 ---
 
-# ⬆️ Trade
+# Trade
 
 ## La commande /trade
 

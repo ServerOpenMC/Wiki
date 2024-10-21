@@ -1,39 +1,29 @@
 # Table of contents
 
-* [🏠 Accueil](README.md)
+* [Bienvenu sur craft & Items OpenMc](README.md)
 
-## Contribuer au projet <a href="#contribuer" id="contribuer"></a>
+## 🌙 Moon dimesion
 
-* [⚠️ Impératif](contribuer/imperatif.md)
-* [📋 Prérequis](contribuer/prerequis.md)
-* [🧱 Comment build son plugin](contribuer/comment-build-son-plugin.md)
-* [📤 Avant une pull request](contribuer/avant-une-pull-request.md)
+* [⚒️ Crafts moon](moon-dimesion/crafts-moon.md)
+* [ℹ️ Wiki moon](moon-dimesion/wiki-moon.md)
 
-## Commandes
+## ☁️ Dream-dimension
 
-* [🎭 Fun](commandes/fun.md)
-* [😾 Utilitaire](commandes/utilitaire.md)
-* [🤝 Gestion des teams](commandes/gestion-des-teams.md)
-* [💰 Économie](commandes/economie.md)
-* [🚰 Téléportation](commandes/teleportation.md)
-* [👥 Amis](commandes/amis.md)
-* [Maisons](commandes/maisons.md)
+* [⚒️ Crafts Dream](dream-dimension/crafts-dream.md)
+* [ℹ️ wiki dream](dream-dimension/wiki-dream.md)
 
-## Features
+## 🔨 Tools
 
-* [🛏️ Sommeil](features/sommeil/README.md)
-  * [💤 Dimension des rêves](features/sommeil/dimension-des-reves.md)
-* [Hoppers](features/hoppers.md)
-* [🥙 Nourriture](features/nourriture.md)
-* [Trade](features/trade.md)
-* [Les évents aléatoires](features/les-events-aleatoires.md)
-* [Mine, Nether et End](features/mine-nether-et-end.md)
-* [Lootboxes](features/lootboxes.md)
-* [🎏 Les Contest](features/contest.md)
+* [⛏️ Craft tools](tools/craft-tools.md)
+* [ℹ️ wiki tools](tools/wiki-tools.md)
 
-## CRAFTS
+## OTHER
 
-* [Marteau de Thor](features/marteau-de-thor.md)
-* [🍃 RTP Wand](crafts/rtp-wand.md)
-* [🥙 Kebab](crafts/kebab.md)
-* [Sac de maison](crafts/sac-de-maison.md)
+* [🎏 Les Contest](other/les-contest.md)
+* [⚒️ Craft Features](other/craft-features.md)
+* [ℹ️ Wiki Features](other/wiki-features.md)
+* [⚙️ Commands](other/commands.md)
+
+***
+
+* [Crédits](credits.md)

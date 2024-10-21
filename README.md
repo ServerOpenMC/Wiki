@@ -1,26 +1,12 @@
 ---
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
+description: >-
+  Sur se site tu retrouvera toute la documentation nécessaire sur les différents
+  Crafts et Items du serveur
 ---
 
-# 🏠 Accueil
+# Bienvenu sur craft & Items OpenMc
 
-Bienvenue sur le wiki d'OpenMC ! Naviguez sur les différentes pages à l'aide de la sidebar.
-
-{% hint style="info" %}
-Trois easter eggs sont cachés dans le spawn temporaire ! À vous de les trouver :)
-{% endhint %}
-
-## Règlement OpenMC&#x20;
+### Règlement OpenMC <a href="#reglement-openmc" id="reglement-openmc"></a>
 
 Voici quelques règles importantes à suivre pour garantir une expérience agréable à tous les joueurs.
 
@@ -44,9 +30,5 @@ Voici quelques règles importantes à suivre pour garantir une expérience agré
 * En cas de **déconnexion**, ou **refus** de venir sur **Discord**, le joueur sera banni définitivement pour _refus d'obtempérer/délit de fuite_.
 * Dans le cas où un joueur trouve **un bug**, il se doit de le **signaler au staff** au plus vite _(de préférence en ouvrant un ticket sur le serveur **Discord** ou en contactant un modo/admin avec le **/mail**)_.
 * Avant de demander à supprimer un claim, veuillez vous assurer qu'aucun membre de la team ne s'est connecté depuis **1 mois** et que la zone de claim vous empêche de construire dessus. Si toutes ces conditions sont remplies, vous pouvez ouvrir un ticket OpenMC sur le serveur Discord d'Aywen.
-
-{% hint style="danger" %}
-De nombreux joueurs ont été bannis (24 joueurs en 2 jours) : ces derniers se sont plaints du fait qu'ils n'étaient pas au courant de l'interdiction des cheats. A présent, plus aucune excuse concernant le règlement ne sera tolérée.
-{% endhint %}
 
 Bon jeu !

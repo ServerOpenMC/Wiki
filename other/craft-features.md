@@ -4,9 +4,9 @@
 
 ## Kebab (Merci Gyro)
 
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-10-21 173208.png" alt=""><figcaption><p>aywen:kebab</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/craft_breadkebab.png" alt=""><figcaption><p>aywen:kebab</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-10-21 173138.png" alt=""><figcaption><p>aywen:kebab_fish</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/craft_fishkebab.png" alt=""><figcaption><p>aywen:kebab_fish</p></figcaption></figure>
 
 #### Materials\_list
 
@@ -19,7 +19,7 @@
 
 ## Frite
 
-<figure><img src="../.gitbook/assets/frite.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/craft_frite.png" alt=""><figcaption></figcaption></figure>
 
 #### Materials list:
 
@@ -33,7 +33,7 @@ Régenération:
 
 ## Home bag 🧳
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/craft_homebag.png" alt=""><figcaption></figcaption></figure>
 
 #### Materials list:
 
@@ -45,7 +45,7 @@ Régenération:
 
 ## Les clef lootbox
 
-<figure><img src="../.gitbook/assets/spaces_YXl4mJgVMv1PBYYOMVuJ_uploads_XzhLLa2JHMZExEBhZDTG_Capture d&#x27;écran 2024-10-21 172826.webp" alt=""><figcaption><p>exellentcrate:aywen_crate</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/craft_lootboxkey.webp" alt=""><figcaption><p>exellentcrate:aywen_crate</p></figcaption></figure>
 
 #### Materials list:
 

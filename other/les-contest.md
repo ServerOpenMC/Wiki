@@ -2,7 +2,7 @@
 
 **Toutes les fonctionnalités lié au Contest sont disponible via le /contest ou la Borne des Contest qu'il y a au spawn**
 
-<figure><img src="../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/borne_contest.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -20,13 +20,13 @@ Le soleil commence à tomber sur le Spawn...
 
 Un jour après que les votes se sont terminé, donc le samedi à 0h. Le Contest démarre sur une durée de 2 jours.
 
-<figure><img src="../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/choice_contest.png" alt=""><figcaption></figcaption></figure>
 
 #### 1- Comment avoir des Coquillages de Contest? <a href="#id-1-comment-avoir-des-coquillages-de-contest" id="id-1-comment-avoir-des-coquillages-de-contest"></a>
 
 Pour donner des points à votre équipe vous devez faire des trades contre des Coquillages de Contest.
 
-<figure><img src="../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/trade.contests.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -36,13 +36,13 @@ Pour donner des points à votre équipe vous devez faire des trades contre des C
 
 Il vous faut déposer les Coquillages de Contest pour ajouter des points dans votre Team !
 
-<figure><img src="../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/depo_contests.png" alt=""><figcaption></figcaption></figure>
 
 
 
 #### 3- Les Boost D'Evenement <a href="#id-3-les-boost-devenement" id="id-3-les-boost-devenement"></a>
 
-<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/boost_contests" alt=""><figcaption></figcaption></figure>
 
 
 

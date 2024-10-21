@@ -18,7 +18,7 @@ Ces lootbox sont actuellement dans le spawn
 
 ## Sac de maison 🎒
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/home_bag.png" alt=""><figcaption></figcaption></figure>
 
 #### Utilisation:
 
@@ -28,7 +28,7 @@ En faisant un clic droit avec l'item en main, vous pourrez vous téléporter à 
 
 ## LuckyBlock
 
-<figure><img src="../.gitbook/assets/luck.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/luckyblock.png" alt=""><figcaption></figcaption></figure>
 
 | Nom                    | ID                   | Chance | Type  | Description                            |
 | ---------------------- | -------------------- | ------ | ----- | -------------------------------------- |

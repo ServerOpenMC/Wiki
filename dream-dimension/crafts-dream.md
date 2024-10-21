@@ -2,7 +2,7 @@
 
 ## Codex somni
 
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-10-21 113311.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/craft_codexsomni.png" alt=""><figcaption></figcaption></figure>
 
 #### Materials\_list:
 
@@ -11,15 +11,15 @@
 
 ## Dream essence
 
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-10-21 113411.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/dream_essence.png" alt=""><figcaption></figcaption></figure>
 
 #### Instruction:
 
-
+Pour en obtenir il faut casser des blocks qui on l'apparence d'anciens débris dan la dimension des rêves 
 
 ## Sleeping pills
 
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-10-21 113252.png" alt=""><figcaption><p>aywen:somniere_0</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/craft_sleepingpill.png" alt=""><figcaption><p>aywen:somniere_0</p></figcaption></figure>
 
 #### Matérials\_list:
 
@@ -28,9 +28,9 @@
 
 ***
 
-## Wake up totem
+## Undreaming Totem
 
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-10-21 113230.png" alt=""><figcaption><p>aywen:totem_of_undreaming_0</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/craft_undreaming_totem.png" alt=""><figcaption><p>aywen:totem_of_undreaming_0</p></figcaption></figure>
 
 #### Matérials\_list:
 
@@ -42,7 +42,7 @@
 
 ## Cloud
 
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-10-21 113337.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cloud.png" alt=""><figcaption></figcaption></figure>
 
 #### Instruction:
 
@@ -52,7 +52,7 @@ The cloud can be collected from dream trees
 
 ## Cloud soup
 
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-10-21 113325.png" alt=""><figcaption><p>aywen:cloud_soup_0</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/craft_cloudsoup.png" alt=""><figcaption><p>aywen:cloud_soup_0</p></figcaption></figure>
 
 #### Matérials\_list:
 
@@ -64,7 +64,7 @@ The cloud can be collected from dream trees
 
 ## Dream Log
 
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-10-21 113355.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/dream_log.png" alt=""><figcaption></figcaption></figure>
 
 ## Instruction
 
@@ -74,7 +74,7 @@ Dream logs can be collected from dream trees
 
 ## Dream\_Plank
 
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-10-21 113402.png" alt=""><figcaption><p>aywen:dream_planks</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/craft_dream_plank.png" alt=""><figcaption><p>aywen:dream_planks</p></figcaption></figure>
 
 #### Matérials\_list:
 

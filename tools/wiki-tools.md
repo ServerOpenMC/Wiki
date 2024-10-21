@@ -60,7 +60,7 @@ Permet de creuser un cube de 3\*3\*3 blocks
 
 <div data-full-width="false">
 
-<figure><img src="../.gitbook/assets/claim (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/claim_wand.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -74,7 +74,7 @@ Permet de creuser un cube de 3\*3\*3 blocks
 
 ## Rtp\_Wand
 
-<figure><img src="../.gitbook/assets/rtp (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/rtp_wand.png" alt=""><figcaption></figcaption></figure>
 
 #### Explication:
 

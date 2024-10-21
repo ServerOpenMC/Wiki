@@ -4,7 +4,7 @@
 
 ## Steel Ingot
 
-<figure><img src="../.gitbook/assets/Steel_smelting.png" alt=""><figcaption><p>space:furnace_steel_ingot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/craft_steelingot.png" alt=""><figcaption><p>space:furnace_steel_ingot</p></figcaption></figure>
 
 #### Instruction:
 
@@ -12,7 +12,7 @@ Cuire du fer dans un four pour fabriquer un lingot d'acier
 
 ## Steel block
 
-<figure><img src="../.gitbook/assets/Acier.png" alt=""><figcaption><p>space:steel_block_0</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/craft_steelblock.png" alt=""><figcaption><p>space:steel_block_0</p></figcaption></figure>
 
 #### Matérials\_list:
 
@@ -22,7 +22,7 @@ Cuire du fer dans un four pour fabriquer un lingot d'acier
 
 ## Moonshard
 
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-10-21 112550.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/monnshard.png" alt=""><figcaption></figcaption></figure>
 
 #### Instruction:
 
@@ -30,7 +30,7 @@ Pour l'obtenir, il faut regarder la lune avec un télescope
 
 ## Rocket
 
-<figure><img src="../.gitbook/assets/Rocket.png" alt=""><figcaption><p>space:rocket_0</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/craft_rocket.png" alt=""><figcaption><p>space:rocket_0</p></figcaption></figure>
 
 #### Materials\_list:
 
@@ -44,7 +44,7 @@ Pour l'obtenir, il faut regarder la lune avec un télescope
 
 ## Lunary bucket
 
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-10-21 112529 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Lunary_bucket.png" alt=""><figcaption></figcaption></figure>
 
 #### Instruction:
 
@@ -56,13 +56,13 @@ Pour l'obtenir, il faut traire une vache lunaire
 
 #### Matérials\_list:
 
-* Moonshard \*3
+* Moonshard \*4
 
 ***
 
 ## Cheese\_block
 
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-10-21 112322.png" alt=""><figcaption><p>space:cheese_block_0</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/craft_cheeseblock.png" alt=""><figcaption><p>space:cheese_block_0</p></figcaption></figure>
 
 #### Materials\_list:
 

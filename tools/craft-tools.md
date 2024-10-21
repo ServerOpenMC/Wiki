@@ -2,7 +2,7 @@
 
 ## Netherite\_Hammer
 
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-10-21 114719.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/craft_netheritehamer.png" alt=""><figcaption></figcaption></figure>
 
 #### Materials\_list:
 
@@ -15,7 +15,7 @@
 
 ## Diamond\_Hammer
 
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-10-21 114655.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/craft_diamondhamer.png" alt=""><figcaption></figcaption></figure>
 
 #### Materials\_list:
 
@@ -30,7 +30,7 @@
 
 ## Iron\_Hammer:
 
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-10-21 114709.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/craft_ironhamer.png" alt=""><figcaption></figcaption></figure>
 
 #### Materials\_list:
 
@@ -43,7 +43,7 @@
 
 ## Builder\_wand
 
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-10-21 114741.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/craft_builderwand.png" alt=""><figcaption></figcaption></figure>
 
 #### Materials\_list:
 
@@ -57,7 +57,7 @@
 
 ## Claim\_info\_wand
 
-<figure><img src="../.gitbook/assets/claim.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/craft_claimwand" alt=""><figcaption></figcaption></figure>
 
 #### Materials\_list:
 
@@ -68,7 +68,7 @@
 
 ## Rtp\_wand
 
-<figure><img src="../.gitbook/assets/rtp.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/craft_rtpwand.webp" alt=""><figcaption></figcaption></figure>
 
 #### Materials\_list:
 

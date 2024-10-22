@@ -2,6 +2,13 @@
 
 * [Bienvenu sur craft & Items OpenMc](README.md)
 
+## Contribuer au projet
+
+* [⚠️ Impératif](contribuer/imperatif.md)
+* [📋 Prérequis](contribuer/prerequis.md)
+* [🧱 Comment build son plugin](contribuer/comment-build-son-plugin.md)
+* [📤 Avant une pull request](contribuer/avant-une-pull-request.md)
+
 ## 🌙 Moon dimesion
 
 * [⚒️ Crafts moon](moon-dimesion/crafts-moon.md)

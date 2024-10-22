@@ -26,7 +26,7 @@
 
 ## OTHER
 
-* [🎏 Les Contest](other/les-contest.md)
+* [🎏 Les Contests](other/les-contest.md)
 * [⚒️ Craft Features](other/craft-features.md)
 * [ℹ️ Wiki Features](other/wiki-features.md)
 * [⚙️ Commands](other/commands.md)

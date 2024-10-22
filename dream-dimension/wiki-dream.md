@@ -52,6 +52,6 @@ Le somnifère vous permettra d'aller dans la dimension des rêves sans lit
 
 #### Explication:
 
-Après l'avoir bu cette soupe te permettra de voler pendant 5 minutes
+Après l'avoir bu, cette soupe te permettra de voler pendant 5 minutes
 
 ***

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Sur se site tu retrouvera toute la documentation nécessaire sur les différents
+  Sur ce site, tu retrouveras toute la documentation nécessaire sur les différents
   Crafts et Items du serveur
 ---
 

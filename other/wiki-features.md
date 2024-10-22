@@ -4,9 +4,8 @@
 
 ## Lootbox
 
-Cela permet de récupérer des meubles et cosmétiques grace a des clef
-
-Il existe différentes clé de lootbox de différent matériaux et de différentes rareté:
+Cela permet de récupérer des meubles et cosmétiques grâce à des clés
+Il existe différentes clés de lootbox de différents matériaux et de différentes raretés :
 
 * Common
 * Rare
@@ -22,7 +21,7 @@ Ces lootbox sont actuellement dans le spawn
 
 #### Utilisation:
 
-En faisant un clic droit avec l'item en main, vous pourrez vous téléporter à votre [**maison**](https://wiki.openmc.fr/commandes/maisons).
+En faisant un clic droit avec l'item en main, vous pourrez vous téléporter à votre [**maison**](https://wiki.openmc.fr/commandes/commands).
 
 ***
 
@@ -58,14 +57,14 @@ En faisant un clic droit avec l'item en main, vous pourrez vous téléporter à 
 
 ### Apparition et durée
 
-Cet événement a un chance sur quatre de se produire chaque nuit, à **minuit**. Celui-ci dure **3 minutes** et ne peut se produire deux nuits d'affilée.
+Cet événement a une chance sur quatre de se produire chaque nuit, à **minuit**. Celui-ci dure **3 minutes** et ne peut se produire deux nuits d'affilée.
 
 ### Effets
 
 Durant la nuit terrifiante, les **monstres** deviennent **plus forts**, mais leurs **loots** en sont d'autant plus **intéressants.**
 
 * Les monstres reçoivent les effets **speed 2** et **résistance 2**, reçoivent une petite **armure** ainsi que des **armes améliorées**. Les creepers ont une explosion plus grande et puissante.
-* À l'inverse les joueurs reçoivent ainsi un effet de **weakness** et perdent **20% de leur vie maximale**.
+* À l'inverse, les joueurs reçoivent ainsi un effet de **weakness** et perdent **20% de leur vie maximale**.
 
 Néanmoins, les monstres boostés droppent des **loots supplémentaires** (en probabilité) :
 

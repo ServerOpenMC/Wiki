@@ -81,7 +81,7 @@ Permet de creuser un cube de 3\*3\*3 blocks
 
 #### Explication:
 
-* La claim\_info\_wand montre les info du claim dans lequel tu a fait clique droit et te montre sa délimitation
+* La claim\_info\_wand montre les infos du claim dans lequel tu as fait clic droit et te montre sa délimitation
 
 
 
@@ -93,4 +93,4 @@ Permet de creuser un cube de 3\*3\*3 blocks
 
 #### Explication:
 
-* Te permet de te téléporter a un endroit aléatoire de l'Overworld
+* Te permet de te téléporter à un endroit aléatoire de l'Overworld

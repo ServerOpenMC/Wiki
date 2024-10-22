@@ -30,5 +30,6 @@ Voici quelques règles importantes à suivre pour garantir une expérience agré
 * En cas de **déconnexion**, ou **refus** de venir sur **Discord**, le joueur sera banni définitivement pour _refus d'obtempérer/délit de fuite_.
 * Dans le cas où un joueur trouve **un bug**, il se doit de le **signaler au staff** au plus vite _(de préférence en ouvrant un ticket sur le serveur **Discord** ou en contactant un modo/admin avec le **/mail**)_.
 * Avant de demander à supprimer un claim, veuillez vous assurer qu'aucun membre de la team ne s'est connecté depuis **1 mois** et que la zone de claim vous empêche de construire dessus. Si toutes ces conditions sont remplies, vous pouvez ouvrir un ticket OpenMC sur le serveur Discord d'Aywen.
+* Toute triche au jump du spawn résultera en un ban de 24 heures
 
 Bon jeu !

@@ -4,7 +4,7 @@ description: >-
   Crafts et Items du serveur
 ---
 
-# Bienvenu sur craft & Items OpenMc
+# Bienvenu sur le wiki OpenMc
 
 ### Règlement OpenMC <a href="#reglement-openmc" id="reglement-openmc"></a>
 

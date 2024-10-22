@@ -43,7 +43,7 @@ En faisant un clic droit avec l'item en main, vous pourrez vous téléporter à 
 | Jaloux                 | spawn\_bob           | 20%    | Malus | BoB est apparue                        |
 | Tempête Tropicale ?    | spawn\_glowsquid     | 40%    | None  | Fait spawner un glowsquid              |
 | Je suis Batman         | batman               | 30%    | None  | Vous êtes sur un chauve souris         |
-| Toujour connecté       | endershest           | 50%    | Bonus | Give 2 endershest                      |
+| Toujour connecté       | enderchest           | 50%    | Bonus | Give 2 endershest                      |
 | Aveugle                | darkness             | 30%    | Malus | Effet de darkness pendant 1 minute     |
 | Aïe...                 | poison               | 40%    | Malus | Effet de poison pendant 20 second      |
 | Super-hero             | super\_hero          | 10%    | Bonus | Effet de résistance 5 pendant 1 min    |

@@ -21,6 +21,7 @@
 #### Instruction:
 
 Pour l'utiliser, vous devrez y mettre 1024 charbons
+Attention!!!, il n'y a pas d'oxygène sur la lune, alors pense à mettre un bloc de verre sur ta tête car sinon tu suffoqueras
 
 ***
 

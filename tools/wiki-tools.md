@@ -10,7 +10,12 @@ Permet de creuser un cube de 3\*3\*3 blocks
 
 #### Durabilité:
 
-?
+4096
+
+#### Enchantement:
+
+* Fortune
+* Silk\_touch
 
 ***
 
@@ -26,6 +31,11 @@ Permet de creuser un cube de 3\*3\*3 blocks
 
 2048
 
+#### Enchantement:
+
+* Fortune
+* Silk\_touch
+
 ***
 
 ## Iron\_Hammer
@@ -38,7 +48,12 @@ Permet de creuser un cube de 3\*3\*3 blocks
 
 #### Durabitité:
 
-?
+512
+
+#### Enchantement:
+
+* Fortune
+* Silk\_touch
 
 ***
 

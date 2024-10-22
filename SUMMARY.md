@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bienvenu sur craft & Items OpenMc](README.md)
+* [Bienvenue sur le wiki OpenMc](README.md)
 
 ## Contribuer au projet
 

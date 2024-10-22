@@ -9,12 +9,12 @@
 * [🧱 Comment build son plugin](contribuer/comment-build-son-plugin.md)
 * [📤 Avant une pull request](contribuer/avant-une-pull-request.md)
 
-## 🌙 Moon dimesion
+## 🌙 Moon dimension
 
 * [⚒️ Crafts moon](moon-dimesion/crafts-moon.md)
 * [ℹ️ Wiki moon](moon-dimesion/wiki-moon.md)
 
-## ☁️ Dream-dimension
+## ☁️ Dream dimension
 
 * [⚒️ Crafts Dream](dream-dimension/crafts-dream.md)
 * [ℹ️ wiki dream](dream-dimension/wiki-dream.md)

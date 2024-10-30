@@ -1,4 +1,8 @@
-# 💤 Dimension des rêves
+---
+icon: bed
+---
+
+# Sommeil
 
 ## Insomnie
 
@@ -34,6 +38,7 @@ Voici les pourcentages
 | 82-111                             | 10                                   |
 | 112 +                              | 9%                                   |
 
-## [_Dimension des rêves à venir..._](#user-content-fn-1)[^1]
+{% content-ref url="../dimensions/reves.md" %}
+[reves.md](../dimensions/reves.md)
+{% endcontent-ref %}
 
-[^1]: Demande d'Aywen :)

@@ -1,8 +1,8 @@
 ---
-description: Nom Nom kebab
+icon: flatbread-stuffed
 ---
 
-# 🥙 Kebab
+# Kebab
 
 ## Craft
 

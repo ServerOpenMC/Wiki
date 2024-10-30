@@ -1,10 +1,10 @@
-# 💰 Économie
+---
+icon: sack-dollar
+---
 
-{% hint style="info" %}
-Si l'argument est encadré avec "\[]" il est facultatif. Avec "<>" il est obligatoire.
-{% endhint %}
+# Économie
 
-
+{% include "../.gitbook/includes/arguments.md" %}
 
 | Commande                  | Description                                            |
 | ------------------------- | ------------------------------------------------------ |

@@ -1,15 +1,27 @@
 ---
-description: Une maison vous permettra de build sur une zone de 32x32 blocs.
-icon: house
+icon: backpack
+description: >-
+  Le seul moyen d'accéder à votre maison et aux fonctionnalités liées à cette
+  dernière.
 ---
 
-# Maisons
+# Havresac (Sac de maison)
 
-Pour accéder à votre maison et à toutes ces fonctionnalités, vous devrez craft un "[**sac de maison**](../crafts/sac-de-maison.md)".
+## Craft
 
-{% hint style="info" %}
-Si l'argument est encadré avec "\[]" il est facultatif. Avec "<>" il est obligatoire.
-{% endhint %}
+<figure><img src="../.gitbook/assets/image_2024-09-24_224225671.png" alt="" width="204"><figcaption><p>Craft du sac de maison</p></figcaption></figure>
+
+## Utilisation
+
+En faisant un clic droit avec l'item en main, vous pourrez vous téléporter à votre plot **maison**.
+
+## Obtention
+
+Pour obtenir les items nécessaires à ce craft, vous devrez tuer des vaches pour obtenir du **cuir** et tuer des lapins pour obtenir une **peau de lapin**.
+
+## Commandes
+
+{% include "../.gitbook/includes/arguments.md" %}
 
 | Commande                          | Description                                                                     |
 | --------------------------------- | ------------------------------------------------------------------------------- |
@@ -17,3 +29,4 @@ Si l'argument est encadré avec "\[]" il est facultatif. Avec "<>" il est obliga
 | /maison setspawn                  | Définit le point d'apparition de ta maison                                      |
 | /maison visit \<joueur>           | Permet de visiter la maison d'un autre joueur                                   |
 | /maison allowvisits \<true/false> | Permet d'autoriser les autres joueurs à visiter ta maison avec le /maison visit |
+

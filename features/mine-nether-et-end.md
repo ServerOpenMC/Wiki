@@ -6,6 +6,6 @@ icon: pickaxe
 
 Le monde minage est un monde ou les dégats sont désactivés. Ils permettent de miner en sécurité dans une map reset chaque mois.
 
-L'End est désactivée pour l'instant. Cela permet d'éviter de rendre le SMP speedrunable.
+L'End est Désormais ouvert.
 
 Comme le minage, l'End sera reset chaque mois.

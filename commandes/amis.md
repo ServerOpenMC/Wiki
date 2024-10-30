@@ -1,8 +1,10 @@
-# 👥 Amis
+---
+icon: person-shelter
+---
 
-{% hint style="info" %}
-Si l'argument est encadré avec "\[]" il est facultatif. Avec "<>" il est obligatoire.
-{% endhint %}
+# Amis
+
+{% include "../.gitbook/includes/arguments.md" %}
 
 | Commande                 | Description                               |
 | ------------------------ | ----------------------------------------- |

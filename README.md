@@ -16,11 +16,7 @@ layout:
 
 Bienvenue sur le wiki d'OpenMC ! Naviguez sur les différentes pages à l'aide de la sidebar.
 
-{% hint style="info" %}
-Trois easter eggs sont cachés dans le spawn temporaire ! À vous de les trouver :)
-{% endhint %}
-
-## Règlement OpenMC&#x20;
+## Règlement OpenMC
 
 Voici quelques règles importantes à suivre pour garantir une expérience agréable à tous les joueurs.
 

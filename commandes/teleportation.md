@@ -1,8 +1,10 @@
-# 🚰 Téléportation
+---
+icon: person-to-portal
+---
 
-{% hint style="info" %}
-Si l'argument est encadré avec "\[]" il est facultatif. Avec "<>" il est obligatoire.
-{% endhint %}
+# Téléportation
+
+{% include "../.gitbook/includes/arguments.md" %}
 
 ## TPA
 

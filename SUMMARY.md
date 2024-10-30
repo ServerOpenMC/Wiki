@@ -11,29 +11,38 @@
 
 ## Commandes
 
-* [🎭 Fun](commandes/fun.md)
-* [😾 Utilitaire](commandes/utilitaire.md)
-* [🤝 Gestion des teams](commandes/gestion-des-teams.md)
-* [💰 Économie](commandes/economie.md)
-* [🚰 Téléportation](commandes/teleportation.md)
-* [👥 Amis](commandes/amis.md)
-* [Maisons](commandes/maisons.md)
+* [Mail](commandes/mail.md)
+* [Fun](commandes/fun.md)
+* [Utilitaire](commandes/utilitaire.md)
+* [Gestion des teams](commandes/gestion-des-teams.md)
+* [Économie](commandes/economie.md)
+* [Téléportation](commandes/teleportation.md)
+* [Amis](commandes/amis.md)
 
 ## Features
 
-* [🛏️ Sommeil](features/sommeil/README.md)
-  * [💤 Dimension des rêves](features/sommeil/dimension-des-reves.md)
+* [LuckyBlock](features/luckyblock.md)
+* [Sommeil](features/sommeil.md)
 * [Hoppers](features/hoppers.md)
-* [🥙 Nourriture](features/nourriture.md)
 * [Trade](features/trade.md)
 * [Les évents aléatoires](features/les-events-aleatoires.md)
 * [Mine, Nether et End](features/mine-nether-et-end.md)
 * [Lootboxes](features/lootboxes.md)
-* [🎏 Les Contest](features/contest.md)
+* [Les Contest](features/contest.md)
 
-## CRAFTS
+## Outils
 
-* [Marteau de Thor](features/marteau-de-thor.md)
-* [🍃 RTP Wand](crafts/rtp-wand.md)
-* [🥙 Kebab](crafts/kebab.md)
-* [Sac de maison](crafts/sac-de-maison.md)
+* [Marteaux](outils/marteaux.md)
+* [Wands](outils/rtp-wand.md)
+
+## Dimensions
+
+* [Lune](dimensions/lune.md)
+* [Rêves](dimensions/reves.md)
+* [Havresac (Sac de maison)](dimensions/sac-de-maison.md)
+
+## Nourriture
+
+* [Effets](nourriture/nourriture.md)
+* [Kebab](nourriture/kebab.md)
+* [Sans effet](nourriture/sans-effet.md)

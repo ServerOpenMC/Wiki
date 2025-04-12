@@ -8,6 +8,7 @@
 * [📋 Prérequis](contribuer/prerequis.md)
 * [🧱 Comment build son plugin](contribuer/comment-build-son-plugin.md)
 * [📤 Avant une pull request](contribuer/avant-une-pull-request.md)
+* [ Contribuer au Wiki](contribuer/wiki.md)
 
 ## Commandes
 

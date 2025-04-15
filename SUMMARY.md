@@ -11,37 +11,33 @@
 
 ## Commandes
 
-* [Mail](commandes/mail.md)
+* [Mail](commandes/mail.md) *(pas à jour)*
 * [Fun](commandes/fun.md)
 * [Utilitaire](commandes/utilitaire.md)
-* [Gestion des teams](commandes/gestion-des-teams.md)
+* [Gestion des teams](commandes/gestion-des-teams.md) *(pas à jour)*
 * [Économie](commandes/economie.md)
-* [Téléportation](commandes/teleportation.md)
-* [Amis](commandes/amis.md)
+* [Téléportation](commandes/teleportation.md) *(pas à jour)*
+* [Amis](commandes/amis.md) *(pas à jour)*
 
 ## Features
 
-* [LuckyBlock](features/luckyblock.md)
-* [Sommeil](features/sommeil.md)
-* [Hoppers](features/hoppers.md)
-* [Trade](features/trade.md)
-* [Les évents aléatoires](features/les-events-aleatoires.md)
-* [Mine, Nether et End](features/mine-nether-et-end.md)
-* [Lootboxes](features/lootboxes.md)
-* [Les Contest](features/contest.md)
+* [Trade](features/trade.md) *(à venir)*
+* [Les jeux et évents aléatoires](features/les-events-aleatoires.md) *(à venir)*
+* [Les Contest](features/contest.md) *(pas à jour)*
+* Les Quêtes *(en cours)*
 
 ## Outils
 
-* [Marteaux](outils/marteaux.md)
-* [Wands](outils/rtp-wand.md)
+* [Marteaux](outils/marteaux.md) *(à venir)*
+* [Wands](outils/wands.md) *(à venir)*
 
-## Dimensions
+## Dimensions *(pas à jour)* *(à venir)*
 
 * [Lune](dimensions/lune.md)
 * [Rêves](dimensions/reves.md)
 * [Havresac (Sac de maison)](dimensions/sac-de-maison.md)
 
-## Nourriture
+## Nourriture *(pas à jour)*
 
 * [Effets](nourriture/nourriture.md)
 * [Kebab](nourriture/kebab.md)

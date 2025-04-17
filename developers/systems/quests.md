@@ -1,4 +1,4 @@
-# Système de Quêtes - Documentation
+# Système de Quêtes
 
 ## Table des matières
 - [Vue d'ensemble](#vue-densemble)

@@ -1,7 +1,5 @@
 # Contribuer au plugin
 
-{% include "../../.gitbook/includes/docs-unfinished.md" %}
-
 ## Créer un fork du [repo du plugin **OpenMC**](https://github.com/ServerOpenMC/PluginV2)
 
 Le repo créé sur votre compte vous permettras de faire tout vos changements au code de plugin.

@@ -17,7 +17,7 @@
 * [Utilitaire](commandes/utilitaire.md)
 * [Gestion des teams](commandes/gestion-des-teams.md) *(pas à jour)*
 * [Économie](commandes/economie.md)
-* [Téléportation](commandes/teleportation.md) *(pas à jour)*
+* [Téléportation](commandes/teleportation.md)
 * [Amis](commandes/amis.md)
 
 ## Features

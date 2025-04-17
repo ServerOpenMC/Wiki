@@ -11,6 +11,7 @@ icon: toolbox
 | /spawn   | Téléportation au spawn du serveur                              |
 | /money   | Gérez votre argent (voir [économie](commandes/economie.md))    |
 | /sb      | Désactive le scoreboard                                        |
+| /quest   | Affiche le menu des quêtes                                     |
 | /trade   | Permet d'échanger des items avec un autre joueur *(à venir)*   |
 | /link    | Permet de lier son compte Discord au serveur *(à venir)*       |
 | /rules   | Affiche les règles du serveur *(à venir)*                      |

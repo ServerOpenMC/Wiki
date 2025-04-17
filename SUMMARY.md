@@ -42,3 +42,7 @@
 * [Effets](nourriture/nourriture.md)
 * [Kebab](nourriture/kebab.md)
 * [Sans effet](nourriture/sans-effet.md)
+
+## Documentation pour les développeurs du plugin
+
+* [Le système de quètes](documentation/quests.md)

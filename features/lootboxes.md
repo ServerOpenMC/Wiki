@@ -5,6 +5,8 @@ description: Les lootboxes sont le seul moyen d'obtenir des meubles.
 
 # Lootboxes
 
+{% include "../.gitbook/includes/coming-soon.md" %}
+
 Les **Lootboxes** sont présente sous forme de boite de différents style au spawn; des Lootbox spéciales son placé au spawn pour certain événement **Halloween** et **Noël**
 
 <div>

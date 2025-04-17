@@ -21,20 +21,17 @@
 
 ## Features
 
+* [Les Contest](features/contest.md) *(pas à jour)*
+* [Les Villes](features/cities.md) *(pas à jour)*
 * [Trade](features/trade.md) *(à venir)*
 * [Les jeux et évents aléatoires](features/les-events-aleatoires.md) *(à venir)*
-* [Les Contest](features/contest.md) *(pas à jour)*
+* [Les LootBox](features/lootboxes.md) *(à venir)*
+* [Les dimensions](features/dimensions.md) *(à venir)*
 
 ## Outils
 
 * [Marteaux](outils/marteaux.md) *(à venir)*
 * [Wands](outils/wands.md) *(à venir)*
-
-## Dimensions *(pas à jour)* *(à venir)*
-
-* [Lune](dimensions/lune.md)
-* [Rêves](dimensions/reves.md)
-* [Havresac (Sac de maison)](dimensions/sac-de-maison.md)
 
 ## Nourriture *(pas à jour)*
 
@@ -44,4 +41,5 @@
 
 ## Documentation pour les développeurs du plugin
 
-* [Le système de quètes](documentation/quests.md)
+* [Comment contribuer](developers/contribute.md)
+* [Le système de quètes](developers/quests.md)

@@ -4,13 +4,16 @@
 
 ## Documentation pour les developpeurs et administarteurs de serveurs
 
-* Comment contribuer
-  * [Contribuer au plugin](developers/contribute.md)
-  * [Contribuer au wiki](developers/contribute.md)
-* Utiliser sois-même le plugin
-  * [Installer le plugin](developers/installing.md)
-* Les systèmes du plugin
-  * [Les quètes](developers/quests.md)
+* [Contribuer au plugin](developers/contribute/contribute.md)
+  * [Prérequis](developers/contribute/prerequisits.md)
+  * [Les Conventions]
+  * [Impératifs]
+  * [Build le plugin]
+  * [Avant une pull request]
+* [Contribuer au wiki](developers/wiki.md)
+* [Utiliser sois-même le plugin](developers/installing.md)
+* [Les systèmes du plugin](developers/systems/systems.md)
+  * [Les quètes](developers/systems/quests.md)
 
 ## Commandes
 

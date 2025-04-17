@@ -8,7 +8,12 @@ icon: person-to-portal
 
 ## TPA
 
-<table><thead><tr><th width="233">Commande</th><th>Description</th></tr></thead><tbody><tr><td>/tpa &#x3C;joueur></td><td>Envoyer une demande de téléportation à un joueur.</td></tr><tr><td>/tpa</td><td>Ouvrir une interface GUI listant les joueurs en ligne pour envoyer une demande de téléportation.</td></tr><tr><td>/tpaccept</td><td>Accepter la dernière demande de téléportation reçue.</td></tr><tr><td>/tpdeny</td><td>Refuser la dernière demande de téléportation reçue.</td></tr></tbody></table>
+| Commande      | Description                                                                                             |
+| ------------- | ------------------------------------------------------------------------------------------------------- |
+| /tpa          | Ouvre une interface listant les joueurs en ligne à qui vous pouvez envoyer une demande de téléportation |
+| /tpa <joueur> | Envoie une demande de téléportation au joueur indiqué                                                   |
+| /tpaccept     | Accept la demande de téléportation                                                                      |
+| /tpdeny       | Rejette une demande de téléportation                                                                    |
 
 ### Explication des commandes
 

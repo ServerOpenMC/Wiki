@@ -21,10 +21,10 @@
 
 ## Features
 
-* [Les Contest](features/contest.md) *(pas à jour)*
+* [Les Contest](features/contest.md)
 * [Les Villes](features/cities.md) *(pas à jour)*
 * [Trade](features/trade.md) *(à venir)*
-* [Les jeux et évents aléatoires](features/les-events-aleatoires.md) *(à venir)*
+* [Les jeux et évents aléatoires](features/random-events.md) *(à venir)*
 * [Les LootBox](features/lootboxes.md) *(à venir)*
 * [Les dimensions](features/dimensions.md) *(à venir)*
 

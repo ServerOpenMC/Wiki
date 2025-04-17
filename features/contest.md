@@ -4,7 +4,7 @@ icon: flag
 
 # Les Contest
 
-**Toutes les fonctionnalités lié au Contest sont disponible via le /contest ou la Borne des Contest qu'il y a au spawn**
+**Toutes les fonctionnalités lié au Contest sont disponible via le `/contest` ou la Borne des Contest qu'il y a au spawn**
 
 <figure><img src="../.gitbook/assets/borne_contest.png" alt="" width="400"><figcaption></figcaption></figure>
 

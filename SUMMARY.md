@@ -22,13 +22,13 @@
 ## Features
 
 * [Les Contest](features/contest.md)
-* [Les Villes](features/cities.md) *(pas à jour)*
+* [Les Villes](features/cities.md)
 * [Trade](features/trade.md) *(à venir)*
 * [Les jeux et évents aléatoires](features/random-events.md) *(à venir)*
 * [Les LootBox](features/lootboxes.md) *(à venir)*
 * [Les dimensions](features/dimensions.md) *(à venir)*
 
-## Outils
+## Outils *(pas à jour)*
 
 * [Marteaux](outils/marteaux.md) *(à venir)*
 * [Wands](outils/wands.md) *(à venir)*

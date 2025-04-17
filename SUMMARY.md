@@ -15,7 +15,6 @@
 * [Mail](commandes/mail.md)
 * [Fun](commandes/fun.md)
 * [Utilitaire](commandes/utilitaire.md)
-* [Gestion des teams](commandes/gestion-des-teams.md) *(pas à jour)*
 * [Économie](commandes/economie.md)
 * [Téléportation](commandes/teleportation.md)
 * [Amis](commandes/amis.md)

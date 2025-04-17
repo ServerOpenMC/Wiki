@@ -33,7 +33,7 @@
 * [Les LootBox](features/lootboxes.md) *(à venir)*
 * [Les dimensions](features/dimensions.md) *(à venir)*
 
-## Outils *(pas à jour)*
+## Outils
 
 * [Marteaux](outils/marteaux.md) *(à venir)*
 * [Wands](outils/wands.md) *(à venir)*

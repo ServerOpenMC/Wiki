@@ -2,13 +2,14 @@
 
 * [🏠 Accueil](README.md)
 
-## Contribuer au projet <a href="#contribuer" id="contribuer"></a>
+## Documentation pour les developpeurs et administarteurs de serveurs
 
-* [⚠️ Impératif](contribuer/imperatif.md)
-* [📋 Prérequis](contribuer/prerequis.md)
-* [🧱 Comment build son plugin](contribuer/comment-build-son-plugin.md)
-* [📤 Avant une pull request](contribuer/avant-une-pull-request.md)
-* [ Contribuer au Wiki](contribuer/wiki.md)
+* Comment contribuer
+  * [Contribuer au plugin](developers/contribute.md)
+  * [Installer le plugin](developers/installing.md)
+  * [Contribuer au wiki](developers/contribute.md)
+* Les systèmes du plugin
+  * [Les quètes](developers/quests.md)
 
 ## Commandes
 
@@ -38,8 +39,3 @@
 * [Effets](nourriture/nourriture.md)
 * [Kebab](nourriture/kebab.md)
 * [Sans effet](nourriture/sans-effet.md)
-
-## Documentation pour les développeurs du plugin
-
-* [Comment contribuer](developers/contribute.md)
-* [Le système de quètes](developers/quests.md)

@@ -8,7 +8,7 @@ En lisant ce guide, nous présupposons que vous savez créé un serveur Minecraf
 
 ## Etape 1 : Récupérer un `.jar` du plugin
 
-Nous n'avons pour l'instant pas de distribution de fichiers du plugin. Il vous faudra donc [compiler vous-même le plugin](contribute/contribute/build.md).
+Nous n'avons pour l'instant pas de distribution de fichiers du plugin. Il vous faudra donc [compiler vous-même le plugin](contribute/build.md).
 
 ## Etape 2 : Le serveur **Minecraft**
 
@@ -27,7 +27,7 @@ du plugin sur votre serveur il vous faudra quatre plugins supplémentaires (à l
 ## Etape 4 : La base de données
 
 Afin de stocker ses données, le plugin **OpenMC** nécessite une base de donnée compatible **MySQL**.
-Il faudra vous munir des identifiants et de l'addresse de la base de données et les rensigner dans `plugins/OpenMC/config.yml`
+Il faudra vous munir des identifiants et de l'addresse de la base de données et les rensigner dans `plugins/OpenMC/config.yml`.
 
 ## Etape 5 : Jouez !
 

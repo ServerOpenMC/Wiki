@@ -28,6 +28,7 @@
 
 * [Les Contest](features/contest.md)
 * [Les Villes](features/cities.md)
+* [Nourriture custom](features/food.md)
 * [Trade](features/trade.md) *(à venir)*
 * [Les jeux et évents aléatoires](features/random-events.md) *(à venir)*
 * [Les LootBox](features/lootboxes.md) *(à venir)*
@@ -37,9 +38,3 @@
 
 * [Marteaux](outils/marteaux.md) *(à venir)*
 * [Wands](outils/wands.md) *(à venir)*
-
-## Nourriture *(pas à jour)*
-
-* [Effets](nourriture/nourriture.md)
-* [Kebab](nourriture/kebab.md)
-* [Sans effet](nourriture/sans-effet.md)

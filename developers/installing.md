@@ -1,7 +1,5 @@
 # Utiliser le plugin sois-même
 
-{% include "../.gitbook/includes/docs-unfinished.md" %}
-
 {% hint style="warning" %}
 En lisant ce guide, nous présupposons que vous savez créé un serveur Minecraft avec des plugins.
 {% endhint %}

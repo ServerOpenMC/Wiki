@@ -16,3 +16,6 @@ Ces deux documents contiennent les règles de contribution à **OpenMC**:
 ## Vérifier que le plugin se compile sans erreur sur votre machine
 ## Vérifier que vos ajouts fonctionnent (fonctionnalité sans bug/bug reglé sans en avoir créé d'autre)
 ## Vérifier qu'il n'y ai aucun conflit avec la branche `master` du repo
+## Vérifier que la description de votre pull request est conforme avec la template du repo
+
+{% embed url="https://github.com/ServerOpenMC/PluginV2/blob/master/.github/pull_request_template.md" %}

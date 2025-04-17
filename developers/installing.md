@@ -10,12 +10,12 @@ En lisant ce guide, nous présupposons que vous savez créé un serveur Minecraf
 
 Nous n'avons pour l'instant pas de distribution de fichiers du plugin. Il vous faudra donc [compiler vous-même le plugin](contribute/contribute/build.md).
 
-## Etape 2 : Le serveur Minecraft
+## Etape 2 : Le serveur **Minecraft**
 
 OpenMC est un plugin [**Paper**](https://papermc.io/downloads/paper) mais vous pouvez aussi utiliser [**Purpur**](https://purpurmc.org/download/purpur) et d'autres forks.
 Veuillez vous munir de la version la plus récente.
 
-## Etape 3 : Les dépendances de OpenMC
+## Etape 3 : Les dépendances de **OpenMC**
 
 Le plugin **OpenMC** n'a pas de dépendances "durs". Autrement dit, vous pouvez l'utiliser tout seul sans autre plugin.
 Cependant, beaucoup de fonctionnalités nécessitent d'autre plugins pour fonctionner. Ainsi, pour avoir toute les fonctionnalités

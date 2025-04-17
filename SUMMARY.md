@@ -6,8 +6,9 @@
 
 * Comment contribuer
   * [Contribuer au plugin](developers/contribute.md)
-  * [Installer le plugin](developers/installing.md)
   * [Contribuer au wiki](developers/contribute.md)
+* Utiliser sois-même le plugin
+  * [Installer le plugin](developers/installing.md)
 * Les systèmes du plugin
   * [Les quètes](developers/quests.md)
 

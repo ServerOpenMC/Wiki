@@ -18,14 +18,13 @@
 * [Gestion des teams](commandes/gestion-des-teams.md) *(pas à jour)*
 * [Économie](commandes/economie.md)
 * [Téléportation](commandes/teleportation.md) *(pas à jour)*
-* [Amis](commandes/amis.md) *(pas à jour)*
+* [Amis](commandes/amis.md)
 
 ## Features
 
 * [Trade](features/trade.md) *(à venir)*
 * [Les jeux et évents aléatoires](features/les-events-aleatoires.md) *(à venir)*
 * [Les Contest](features/contest.md) *(pas à jour)*
-* Les Quêtes *(en cours)*
 
 ## Outils
 

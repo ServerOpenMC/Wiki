@@ -12,7 +12,7 @@
 
 ## Commandes
 
-* [Mail](commandes/mail.md) *(pas à jour)*
+* [Mail](commandes/mail.md)
 * [Fun](commandes/fun.md)
 * [Utilitaire](commandes/utilitaire.md)
 * [Gestion des teams](commandes/gestion-des-teams.md) *(pas à jour)*

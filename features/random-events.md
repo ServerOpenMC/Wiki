@@ -7,6 +7,8 @@ icon: moon
 
 # Les évents aléatoires
 
+{% include "../.gitbook/includes/coming-soon.md" %}
+
 ## La nuit terrifiante (Bloodmoon)
 
 ### Apparition et durée

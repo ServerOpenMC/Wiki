@@ -21,12 +21,13 @@ du plugin sur votre serveur il vous faudra quatre plugins supplémentaires (à l
 - **LuckPerms** pour les grades et permissions
 - **ItemsAdder** pour les items, blocks et menus custom (n'oubliez pas d'utiliser la [configuration ItemsAdder de **OpenMC**](https://github.com/ServerOpenMC/ItemsAdder) pour que tout fonctionne)
 - **PlaceholderAPI** et **ProtocolLib** pour certaines utilités
+- **WorldEdit** et **WorldGuard** pour protéger le monde du grief
 
 ## Etape 4 : La base de données
 
 Afin de stocker ses données, le plugin **OpenMC** nécessite une base de donnée compatible **MySQL**.
 Il faudra vous munir des identifiants et de l'addresse de la base de données et les rensigner dans `plugins/OpenMC/config.yml`.
 
-## Etape 5 : Jouez !
+## Etape 5 : Tester vos features & trouver un max de bugs !
 
-Vous avez maintenant un serveur avec le plugin **OpenMC**. Amusez-vous bien!
+Vous avez maintenant un serveur avec le plugin **OpenMC**.

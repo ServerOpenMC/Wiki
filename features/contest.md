@@ -38,14 +38,6 @@ Il vous faut déposer les Coquillages de Contest pour ajouter des points dans vo
 
 <figure><img src="../.gitbook/assets/contribution_contest.png" alt="" width="400"><figcaption></figcaption></figure>
 
-### 3- Les Boost D'Evenement
-
-<figure><img src="../.gitbook/assets/boost_contest.png" alt="" width="400"><figcaption></figcaption></figure>
-
-Les boost d'événement peuvent varier de +5% à +25% d'apparaitre, ils sont choisis aléatoirement. *(lorsque les animations seront implémentés)*
-
-La nuit tombe sur le spawn...
-
 ## Phase 3 : Les Résultats !
 
 Les résultats tombent, ils sont basés sur le taux de Coquillages de Contest déposé. Vous recevrez dans votre boite mail, le Lundi à 0h, un livre et des récompenses en lien avec le Contest. Dans ce livre vous pourrez regarder les statistiques générales à propos du Contest, vos statistiques personnelles, et le classement !

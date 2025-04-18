@@ -5,8 +5,8 @@
 ## Documentation pour les developpeurs et administarteurs de serveurs
 
 * [Contribuer au plugin](developers/contribute/contribute.md)
-  * [Comment build le plugin](developers/contribute/prerequisits.md)
-  * [Les impératifs à vérifier avant de soumettre sa pull request](developers/contribute/impératifs.md)
+  * [Comment build le plugin](developers/contribute/build.md)
+  * [Les impératifs à vérifier avant de soumettre sa pull request](developers/contribute/imperatifs.md)
 * [Contribuer au wiki](developers/wiki.md)
 * [Utiliser sois-même le plugin](developers/install.md)
 * [Les systèmes du plugin](developers/systems/systems.md)

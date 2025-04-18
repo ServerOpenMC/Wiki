@@ -44,7 +44,7 @@ Il faudra vous armer de patience puisque la chance d'obtenir l'un des trois lég
 
 {% tabs %}
 {% tab title="Craft" %}
-nous n'avons pas d'image
+<figure><img src="../.gitbook/assets/TheMixture.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Matériaux nécessaires" %}

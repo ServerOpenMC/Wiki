@@ -124,4 +124,26 @@ public static void init_db(ConnectionSource connectionSource) throws SQLExceptio
 
 ### Utiliser le `DAO`
 
+Maitenant que vous avez votre table et votre `DAO`, vous pouvez commencé à
+manipuler la base de donnés. Voici quelque fonctions utiles:
+
+- `queryForAll`: Retourne une liste du type stocké. Ex: `List<Mayor>`
+- `queryForId`: Retourne l'élément avec l'ID donnée.
+- `create`: Sauvegarde l'objet ou la liste d'objets donnés.
+- `update`: Met à jour l'objet donné (fonctionne uniquement si le type a un `id = true`).
+- `createOrUpdate`: Créé l'objet si il n'existe pas et le met à jour s'il existe (fonctionne uniquement si le type a un `id = true`).
+- `delete`: Supprime l'objet donné.
+
+Vous pouvez aussi créé des requêtes plus complexes à l'aide du `QueryBuilder`
+et du `DeleteBuilder`.
+
+```java
+DeleteBuilder<Mayor, String> mayorsDelete = mayorsDao.deleteBuilder();
+mayorsDelete.where().eq("city", city.getUUID());
+mayorsDao.delete(mayorsDelete.prepare());
+```
+
+Pour plus d'informations rendez-vous sur la
+[documentation officielle](https://ormlite.com/javadoc/ormlite-core/doc-files/ormlite.html#Statement-Builder)
+
 ## Bonnes pratiques

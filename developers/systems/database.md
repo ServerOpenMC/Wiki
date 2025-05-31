@@ -147,3 +147,8 @@ Pour plus d'informations rendez-vous sur la
 [documentation officielle](https://ormlite.com/javadoc/ormlite-core/doc-files/ormlite.html#Statement-Builder)
 
 ## Bonnes pratiques
+
+1. Garder le `Dao` en `private` sans `@Getter` afin de garder localiser les interactions avec la DB.
+2. Mettre les operations de sauvegarde dans des fonction asynchrones pour de meilleurs performances.
+
+Rédigé par [PiquelChips](https://github.com/PiquelChips)

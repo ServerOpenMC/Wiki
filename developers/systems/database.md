@@ -96,6 +96,32 @@ public class Mayor {
 ```
 
 ### Initialiser la table et le `DAO`
+
+Par convention dans la codebase **OpenMC**, le base de donnés est initialisée
+par le `DatabaseManager` a travers une fonction `init_db`. Cette fonction
+doit créer la/les table(s) si elle(s) n'existe(nt) pas et initialiser le
+`DAO`. Le `Data Access Object` est l'objet qui permet d'intéragir avec la table
+associée de la DB.
+
+Le `Dao` doit être initialiser avec le type a stocké dans la DB et le type
+du membre annoter avec `id = true`. Si le type n'a pas d'ID, un type quelquonque
+peut être utiliser.
+
+{% hint style="warning" %}
+Attention, si vous utilisés le `Dao` dans la fonction `init_db` cela risque de
+bloquer les unit tests (je pense que c'est un problème avec les driver `h2` mais
+        je ne suis pas sûre).
+{% endhint %}
+
+```java
+private static Dao<Mayor, String> mayorsDao;
+
+public static void init_db(ConnectionSource connectionSource) throws SQLException {
+    TableUtils.createTableIfNotExists(connectionSource, Mayor.class);
+    mayorsDao = DaoManager.createDao(connectionSource, Mayor.class);
+}
+```
+
 ### Utiliser le `DAO`
 
 ## Bonnes pratiques

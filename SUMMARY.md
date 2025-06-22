@@ -30,7 +30,6 @@
 * [Trade](features/trade.md) *(à venir)*
 * [Les jeux et évents aléatoires](features/random-events.md) *(à venir)*
 * [Les LootBox](features/lootboxes.md) *(à venir)*
-* [Les dimensions](features/dimensions.md) *(à venir)*
 
 ## Outils
 

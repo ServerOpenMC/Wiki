@@ -7,7 +7,7 @@ icon: person-shelter
 {% include "../.gitbook/includes/arguments.md" %}
 
 | Commande                 | Description                               |
-| ------------------------ | ----------------------------------------- |
+|--------------------------|-------------------------------------------|
 | /friend list             | Affiche la liste de vos amis.             |
 | /friend add \<joueur>    | Demande un joueur en amis.                |
 | /friend remove \<joueur> | Retire un joueur de la liste de vos amis. |

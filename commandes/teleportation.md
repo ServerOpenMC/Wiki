@@ -9,11 +9,12 @@ icon: person-to-portal
 ## TPA
 
 | Commande      | Description                                                                                             |
-| ------------- | ------------------------------------------------------------------------------------------------------- |
+|---------------|---------------------------------------------------------------------------------------------------------|
 | /tpa          | Ouvre une interface listant les joueurs en ligne à qui vous pouvez envoyer une demande de téléportation |
 | /tpa <joueur> | Envoie une demande de téléportation au joueur indiqué                                                   |
 | /tpaccept     | Accept la demande de téléportation                                                                      |
 | /tpdeny       | Rejette une demande de téléportation                                                                    |
+| /tpcancel     | Annule la demande de téléportation en cours                                                             |
 
 ### Explication des commandes
 
@@ -44,11 +45,21 @@ icon: person-to-portal
 * **Exemple** : Si `joueur123` vous a envoyé une demande, tapez `/tpdeny` pour la refuser.
 * **Note** : Le joueur qui a envoyé la demande sera notifié du refus.
 
+#### **/tpcancel**
+
+* **Description** : Cette commande annule la demande de téléportation en cours.
+* **Usage** : Tapez `/tpcancel` pour annuler la demande de téléportation que vous avez envoyée.
+* **Exemple** : Si vous avez envoyé une demande à `joueur123`, tapez `/tpcancel` pour annuler cette demande.
+* **Note** : Cela ne concerne que les demandes que vous avez envoyées, pas celles que vous avez reçues.
+
 #### Gestion des demandes de téléportation
 
 * **Envoyer une demande** :
   * Utilisez `/tpa <pseudo>` pour demander une téléportation à un joueur spécifique.
-  * Utilisez `/tpa` pour ouvrir la GUI et choisir un joueur en ligne.
+  * Utilisez `/tpa` pour ouvrir le GUI et choisir un joueur en ligne.
+* **Annuler une demande** :
+  * Utilisez `/tpcancel` pour annuler la demande de téléportation que vous avez envoyée.
+  * Cela annulera la demande avant qu'elle ne soit acceptée ou refusée.
 * **Accepter une demande** :
   * Utilisez `/tpaccept` pour accepter la dernière demande de téléportation reçue.
   * Cela téléportera le joueur qui a envoyé la demande à votre position.

@@ -30,4 +30,4 @@ Néanmoins, les monstres boostés droppent des **loots supplémentaires** (en pr
 
 ## Events à venir?
 
-_Peut être dans le futur... 👀_
+_Peut-être dans le futur..._ 👀

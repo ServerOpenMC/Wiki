@@ -7,7 +7,7 @@ icon: sack-dollar
 {% include "../.gitbook/includes/arguments.md" %}
 
 | Commande                  | Description                                                        |
-| ------------------------- | ------------------------------------------------------------------ |
+|---------------------------|--------------------------------------------------------------------|
 | /money                    | Affiche le montant que vous possédez                               |
 | /money history            | Affiche votre historique de transaction                            |
 | /pay \<joueur> \<montant> | Permet de transférer votre argent à un autre joueur                |

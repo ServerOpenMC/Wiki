@@ -1,17 +1,16 @@
 ---
 icon: toolbox
 ---
-
 # Utilitaire
 
 {% include "../.gitbook/includes/arguments.md" %}
 
-| Commande | Description                                                    |
-| -------- | -------------------------------------------------------------- |
-| /spawn   | Téléportation au spawn du serveur                              |
-| /money   | Gérez votre argent (voir [économie](commandes/economie.md))    |
-| /sb      | Désactive le scoreboard                                        |
-| /quest   | Affiche le menu des quêtes                                     |
-| /link    | Permet de lier son compte Discord au serveur *(à venir)*       |
-| /rules   | Affiche les règles du serveur *(à venir)*                      |
-| /privacy | Permet de bloquer un joueur de vos messages privés *(à venir)* |
+
+| Commande           | Description                                                 |
+|--------------------|-------------------------------------------------------------|
+| /spawn             | Téléportation au spawn du serveur                           |
+| /money             | Gérez votre argent (voir [économie](commandes/economie.md)) |
+| /sb                | Gérer le scoreboard                                         |
+| /omcbossbar ou /bb | Activer/Désactiver la boss bar                              |
+| /quest             | Affiche le menu des quêtes                                  |
+| /link              | Permet de lier son compte Discord au serveur *(à venir)*    |

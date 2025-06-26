@@ -1,6 +1,6 @@
 ---
-icon: hammer-war
 description: L'arme mythique du dieu de la foudre.
+icon: hammer-war
 ---
 
 # Marteaux
@@ -10,12 +10,11 @@ description: L'arme mythique du dieu de la foudre.
 ## Marteau de guerre
 
 {% hint style="info" %}
-Cette arme fait 10 points de dégâts et génère une explosion et un éclair lorsqu'elle est utilisée pour attaquer
+Cette arme fait 10 points de dégâts et génère une explosion et un éclair lorsqu'elle est utilisée pour attaquer\
 ou lorsque on fait un shift + clique droit sur un bloc. (Non, on ne peut pas la lancer.)
 {% endhint %}
 
-_Cooldown de 60 secondes._
-_50 points de durabilité._
+_Cooldown de 60 secondes.50 points de durabilité._
 
 {% tabs %}
 {% tab title="Craft" %}

@@ -27,12 +27,12 @@
 * [Les Contest](features/contest.md)
 * [Les Villes](features/cities.md)
 * [Nourriture custom](features/food.md)
-* [Trade](features/trade.md) *(à venir)*
-* [Les jeux et évents aléatoires](features/random-events.md) *(à venir)*
-* [Les LootBox](features/lootboxes.md) *(à venir)*
-* [Les dimensions](features/dimensions.md) *(à venir)*
+* [Trade](features/trade.md)
+* [Les jeux et évents aléatoires](features/random-events.md)
+* [Les LootBox](features/lootboxes.md)
+* [Les dimensions](features/dimensions.md)
 
 ## Outils
 
-* [Marteaux](outils/marteaux.md) *(à venir)*
-* [Wands](outils/wands.md) *(à venir)*
+* [Marteaux](outils/marteaux.md)
+* [Wands](outils/wands.md)

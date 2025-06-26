@@ -4,8 +4,6 @@ icon: person-shelter
 
 # Amis
 
-{% include "../.gitbook/includes/arguments.md" %}
-
 | Commande                 | Description                               |
 | ------------------------ | ----------------------------------------- |
 | /friend list             | Affiche la liste de vos amis.             |

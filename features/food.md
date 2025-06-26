@@ -2,7 +2,7 @@
 icon: flask
 ---
 
-# Nourriture
+# Nourriture custom
 
 ## Kebab
 
@@ -35,7 +35,7 @@ Le **kebab** est un aliment custom qui vous nourrit comme n'importe quel autre a
 {% endtab %}
 
 {% tab title="Info" %}
-Pour obtenir la **salade**, la **tomate** et l'**oignon**, vous devrez tuer des villageois fermiers.
+Pour obtenir la **salade**, la **tomate** et l'**oignon**, vous devrez tuer des villageois fermiers.\
 Il faudra vous armer de patience puisque la chance d'obtenir l'un des trois légumes est infime.
 {% endtab %}
 {% endtabs %}
@@ -71,7 +71,7 @@ Aucun Effet Secondaire !
 
 {% tab title="Info" %}
 <figure><img src="../.gitbook/assets/régen_frites.png" alt=""><figcaption></figcaption></figure>
+
 Les frites n'ont pas d'effet particulier.
 {% endtab %}
 {% endtabs %}
-

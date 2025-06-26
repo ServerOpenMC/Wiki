@@ -1,4 +1,4 @@
-# Utiliser le plugin sois-même
+# Utiliser le plugin
 
 {% hint style="warning" %}
 En lisant ce guide, nous présupposons que vous savez créé un serveur Minecraft avec des plugins.
@@ -10,22 +10,23 @@ Nous n'avons pour l'instant pas de distribution de fichiers du plugin. Il vous f
 
 ## Etape 2 : Le serveur **Minecraft**
 
-OpenMC est un plugin [**Paper**](https://papermc.io/downloads/paper) mais vous pouvez aussi utiliser [**Purpur**](https://purpurmc.org/download/purpur) et d'autres forks.
+OpenMC est un plugin [**Paper**](https://papermc.io/downloads/paper) mais vous pouvez aussi utiliser [**Purpur**](https://purpurmc.org/download/purpur) et d'autres forks.\
 Veuillez vous munir de la version la plus récente.
 
 ## Etape 3 : Les dépendances de **OpenMC**
 
-Le plugin **OpenMC** n'a pas de dépendances "durs". Autrement dit, vous pouvez l'utiliser tout seul sans autre plugin.
-Cependant, beaucoup de fonctionnalités nécessitent d'autre plugins pour fonctionner. Ainsi, pour avoir toute les fonctionnalités
+Le plugin **OpenMC** n'a pas de dépendances "durs". Autrement dit, vous pouvez l'utiliser tout seul sans autre plugin.\
+Cependant, beaucoup de fonctionnalités nécessitent d'autre plugins pour fonctionner. Ainsi, pour avoir toute les fonctionnalités\
 du plugin sur votre serveur il vous faudra quatre plugins supplémentaires (à la version la plus récente si possible):
-- **LuckPerms** pour les grades et permissions
-- **ItemsAdder** pour les items, blocks et menus custom (n'oubliez pas d'utiliser la [configuration ItemsAdder de **OpenMC**](https://github.com/ServerOpenMC/ItemsAdder) pour que tout fonctionne)
-- **PlaceholderAPI** et **ProtocolLib** pour certaines utilités
-- **WorldEdit** et **WorldGuard** pour protéger le monde du grief
+
+* **LuckPerms** pour les grades et permissions
+* **ItemsAdder** pour les items, blocks et menus custom (n'oubliez pas d'utiliser la [configuration ItemsAdder de **OpenMC**](https://github.com/ServerOpenMC/ItemsAdder) pour que tout fonctionne)
+* **PlaceholderAPI** et **ProtocolLib** pour certaines utilités
+* **WorldEdit** et **WorldGuard** pour protéger le monde du grief
 
 ## Etape 4 : La base de données
 
-Afin de stocker ses données, le plugin **OpenMC** nécessite une base de donnée compatible **MySQL**.
+Afin de stocker ses données, le plugin **OpenMC** nécessite une base de donnée compatible **MySQL**.\
 Il faudra vous munir des identifiants et de l'addresse de la base de données et les rensigner dans `plugins/OpenMC/config.yml`.
 
 ## Etape 5 : Tester vos features & trouver un max de bugs !

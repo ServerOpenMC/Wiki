@@ -1,18 +1,19 @@
-# Système de Quêtes
+# Les quètes
 
 ## Table des matières
-- [Vue d'ensemble](#vue-densemble)
-- [Architecture du système](#architecture-du-système)
-- [Guide d'implémentation](#guide-dimplémentation)
-    - [Créer une nouvelle quête](#créer-une-nouvelle-quête)
-    - [Enregistrer une quête](#enregistrer-une-quête)
-    - [Gérer des événements spécifiques](#gérer-des-événements-spécifiques)
-- [Composants du système](#composants-du-système)
-    - [Récompenses](#récompenses)
-    - [Progression](#progression)
-- [Utilisation avancée](#utilisation-avancée)
-    - [QuestBuilder](#questbuilder)
-- [Bonnes pratiques](#bonnes-pratiques)
+
+* [Vue d'ensemble](quests.md#vue-densemble)
+* [Architecture du système](quests.md#architecture-du-système)
+* [Guide d'implémentation](quests.md#guide-dimplémentation)
+  * [Créer une nouvelle quête](quests.md#créer-une-nouvelle-quête)
+  * [Enregistrer une quête](quests.md#enregistrer-une-quête)
+  * [Gérer des événements spécifiques](quests.md#gérer-des-événements-spécifiques)
+* [Composants du système](quests.md#composants-du-système)
+  * [Récompenses](quests.md#récompenses)
+  * [Progression](quests.md#progression)
+* [Utilisation avancée](quests.md#utilisation-avancée)
+  * [QuestBuilder](quests.md#questbuilder)
+* [Bonnes pratiques](quests.md#bonnes-pratiques)
 
 ## Vue d'ensemble
 
@@ -22,13 +23,13 @@ Le système de quêtes permet d'implémenter des objectifs pour les joueurs dans
 
 Le système est composé des éléments suivants :
 
-| Composant | Description |
-|-----------|-------------|
-| **Quête** | Objet principal qui contient un nom, une description, une icône et une liste de paliers |
-| **Palier de Quête** | Niveau de progression avec un objectif et des récompenses |
-| **Étape de Quête** | Sous-objectifs optionnels au sein d'un palier |
-| **Récompenses** | Objets ou argent attribués lorsqu'un palier est complété |
-| **Progression** | Système de suivi et sauvegarde de l'avancement des joueurs |
+| Composant           | Description                                                                             |
+| ------------------- | --------------------------------------------------------------------------------------- |
+| **Quête**           | Objet principal qui contient un nom, une description, une icône et une liste de paliers |
+| **Palier de Quête** | Niveau de progression avec un objectif et des récompenses                               |
+| **Étape de Quête**  | Sous-objectifs optionnels au sein d'un palier                                           |
+| **Récompenses**     | Objets ou argent attribués lorsqu'un palier est complété                                |
+| **Progression**     | Système de suivi et sauvegarde de l'avancement des joueurs                              |
 
 ## Guide d'implémentation
 
@@ -59,7 +60,7 @@ public class MinerQuest extends Quest {
 }
 ```
 
-pour `l'action bar`, le boolean est facultatif, par défaut il est à `false`.
+pour `l'action bar`, le boolean est facultatif, par défaut il est à `false`.\
 Il permet d'afficher la progression de la quête dans la barre d'action du joueur, elle s'afficheras a chaque palier (50), pour éviter de spammer le joueur.
 
 ### Enregistrer une quête
@@ -78,7 +79,7 @@ public void loadDefaultQuests() {
 
 ### Implementer une progression
 
-1. Une progression unique (*1*):
+1. Une progression unique (_1_):
 
 ```java
     @EventHandler
@@ -90,7 +91,7 @@ public void loadDefaultQuests() {
     }
 ```
 
-2. Une progression multiple (*n*):
+2. Une progression multiple (_n_):
 
 ```java
     @EventHandler
@@ -106,6 +107,7 @@ public void loadDefaultQuests() {
 ```
 
 3. Progression avec les étapes:
+
 ```java
         this.incrementStepProgress(playerUUID, 0); // Incrémente la progression de l'étape 0 (= index)
         this.incrementProgress(playerUUID); // Incrémente la progression de la quête
@@ -117,29 +119,31 @@ public void loadDefaultQuests() {
 
 Deux types de récompenses sont disponibles :
 
-1. **Récompenses en objets** (`QuestItemReward`) :
-   ```java
-   // Donne 5 diamants
-   new QuestItemReward(Material.DIAMOND, 5);
-   
-   // Ou avec un ItemStack personnalisé
-   ItemStack customItem = new ItemStack(Material.DIAMOND_SWORD);
-   // Personnalisation de l'objet...
-   new QuestItemReward(customItem);
-   ```
+1.  **Récompenses en objets** (`QuestItemReward`) :
 
-2. **Récompenses en argent** (`QuestMoneyReward`) :
-   ```java
-   // Donne 500 unités de monnaie
-   new QuestMoneyReward(500);
-   ```
+    ```java
+    // Donne 5 diamants
+    new QuestItemReward(Material.DIAMOND, 5);
+
+    // Ou avec un ItemStack personnalisé
+    ItemStack customItem = new ItemStack(Material.DIAMOND_SWORD);
+    // Personnalisation de l'objet...
+    new QuestItemReward(customItem);
+    ```
+2.  **Récompenses en argent** (`QuestMoneyReward`) :
+
+    ```java
+    // Donne 500 unités de monnaie
+    new QuestMoneyReward(500);
+    ```
 
 ### Progression
 
 La progression des joueurs est automatiquement gérée par le `QuestProgressSaveManager` :
-- Les données sont stockées dans des fichiers YAML
-- Emplacement : dossier `quests` du répertoire de données du plugin
-- Chargement et sauvegarde automatiques
+
+* Les données sont stockées dans des fichiers YAML
+* Emplacement : dossier `quests` du répertoire de données du plugin
+* Chargement et sauvegarde automatiques
 
 ## Utilisation avancée
 
@@ -171,6 +175,6 @@ for (int i = 0; i < armorQuest.getTiers().size(); i++) {
 4. **Progression intuitive** : Concevez des paliers avec une difficulté progressive
 5. **Documentation** : Commentez votre code pour faciliter la maintenance
 
----
+***
 
 Développé par [Axeno](https://github.com/AxenoDev)

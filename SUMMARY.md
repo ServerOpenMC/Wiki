@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🏠 Accueil](README.md)
+* [Accueil](README.md)
 
 ## Documentation pour les devs et admins
 

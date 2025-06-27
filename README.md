@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# 🏠 Accueil
+# Accueil
 
 Bienvenue sur le wiki d'OpenMC ! Naviguez sur les différentes pages à l'aide de la sidebar.
 

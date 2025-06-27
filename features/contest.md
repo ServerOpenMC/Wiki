@@ -22,7 +22,7 @@ Le soleil commence à tomber sur le Spawn...
 
 ## Phase 2 : L'Affrontement !
 
-Un jour après que les votes se sont terminé, donc le samedi à 0h. Le Contest démarre sur une durée de 2 jours.
+Un jour après que les votes soient terminés, donc le samedi à 0h. Le Contest démarre sur une durée de 2 jours.
 
 ### 1- Comment avoir des Coquillages de Contest?
 

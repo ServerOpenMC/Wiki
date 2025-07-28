@@ -11,7 +11,7 @@
 * [Utiliser le plugin](developers/install.md)
 * [Les systèmes](developers/systems/systems.md)
   * [La base de données](developers/systems/database.md)
-  * [Les quètes](developers/systems/quests.md)
+  * [Les quêtes](developers/systems/quests.md)
   * [Les intérèts](developers/systems/interests.md)
   * [Les réformes](developers/systems/perks.md)
 

@@ -12,7 +12,7 @@
 * [Les systèmes](developers/systems/systems.md)
   * [La base de données](developers/systems/database.md)
   * [Les quêtes](developers/systems/quests.md)
-  * [Les intérèts](developers/systems/interests.md)
+  * [Les intérêts](developers/systems/interests.md)
   * [Les réformes](developers/systems/perks.md)
 
 ## Commandes
